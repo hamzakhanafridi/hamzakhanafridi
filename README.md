@@ -37,7 +37,7 @@
 <!-- ═══════════════════════════════════════ -->
 <!--       ACTIVITY GRAPH — LIVE            -->
 <!-- ═══════════════════════════════════════ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravixpanchal&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&area=true&area_color=58a6ff&hide_border=true&radius=8&custom_title=Ravi's%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzakhanafridi&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&area=true&area_color=58a6ff&hide_border=true&radius=8&custom_title=Ravi's%20Contribution%20Graph" width="95%"/>
 
 <br/>
 
@@ -51,7 +51,7 @@
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/ravixpanchal?theme=dark&font=Fira%20Code&border=0&radius=8&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=3fb950&site=com&border_color=21262d" width="495"/>
+<img src(https://leetcode.com/u/mUiyXuEetT/)?theme=dark&font=Fira%20Code&border=0&radius=8&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=3fb950&site=com&border_color=21262d" width="495"/>
 
 <br/>
 
@@ -67,7 +67,7 @@
 
 | 🏅 GFG Rank | 📈 CGPA | 📄 Research | 🏛️ Internships |
 |:-----------:|:-------:|:-----------:|:--------------:|
-| **Institute #1** | **8.44** | **Railway Safety Paper** | **AAI · DRM Jhansi** |
+| **Institute #1** | **8.44** | **Blind and visually impaired persons** | **AAI · DRM Jhansi** |
 
 <br/>
 
@@ -108,7 +108,8 @@
 
 <br/>
 
-📫 **Reach me:** [ravi.panchal.kaithi@gmail.com](mailto:ravi.panchal.kaithi@gmail.com)
+📫 **Reach me:** [afridihamza484@gmail.com](mailto:afridihamza484@gmail.com)
+  **Callme**:   +923332424247
 
 <br/>
 
@@ -122,13 +123,9 @@
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=1d9bf0&labelColor=161b22)](https://x.com/ravixpanchal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://https://www.linkedin.com/in/hamza-ml-data-science-expert/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/ravixpanchal/)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=161b22)](https://www.instagram.com/ravixpanchal/)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22)](https://leetcode.com/u/ravixpanchal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22)](https://leetcode.com/u/mUiyXuEetT/)
 &nbsp;
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=161b22)](https://auth.geeksforgeeks.org/user/ravipanchal)
 
