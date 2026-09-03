@@ -8,7 +8,7 @@
 <!-- ═══════════════════════════════════════ -->
 <!--           ANIMATED NAME                -->
 <!-- ═══════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=52&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=110&lines=RAVI+PANCHAL" alt="Hamza Afridi"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=52&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=110&lines=Hamza+Afridi" alt="Hamza Afridi"/>
 
 <!-- ═══════════════════════════════════════ -->
 <!--           ANIMATED ROLES               -->
@@ -27,7 +27,7 @@
 <!-- ═══════════════════════════════════════ -->
 ![](https://img.shields.io/badge/AI%20%26%20ML-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff&labelColor=161b22)
 ![](https://img.shields.io/badge/Data%20Science-0d1117?style=for-the-badge&logo=databricks&logoColor=3fb950&labelColor=161b22)
-![](https://img.shields.io/badge/GenAI & Agentic AI-0d1117?style=for-the-badge&logo=googlescholar&logoColor=bc8cff&labelColor=161b22)
+![](https://img.shields.io/badge/GenAI&AgenticAI-0d1117?style=for-the-badge&logo=googlescholar&logoColor=bc8cff&labelColor=161b22)
 ![](https://img.shields.io/badge/B.Tech%202027-0d1117?style=for-the-badge&logo=mortarboard&logoColor=e3b341&labelColor=161b22)
 
 <br/><br/>
