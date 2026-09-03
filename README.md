@@ -40,21 +40,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzakhanafridi&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&area=true&area_color=58a6ff&hide_border=true&radius=8&custom_title=Ravi's%20Contribution%20Graph" width="95%"/>
 
 <br/>
-
----
-
-<!-- ═══════════════════════════════════════ -->
-<!--       LEETCODE STATS — LIVE            -->
-<!-- ═══════════════════════════════════════ -->
-
-**⚡ LeetCode Stats**
-
-<br/>
-
-<img src(https://leetcode.com/u/mUiyXuEetT/)?theme=dark&font=Fira%20Code&border=0&radius=8&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=3fb950&site=com&border_color=21262d" width="495"/>
-
-<br/>
-
 ---
 
 <!-- ═══════════════════════════════════════ -->
@@ -82,19 +67,24 @@
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=161b22)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=161b22)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=161b22)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=161b22)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=161b22)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=161b22)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=161b22)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=161b22)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=161b22)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=matplotlib&logoColor=71D291&labelColor=161b22)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=71D3D3&labelColor=161b22)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=161b22)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=161b22)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000&labelColor=161b22)
+![OpenAI](https://img.shields.io/badge/GenAI-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=161b22)
+![LangChain](https://img.shields.io/badge/Agentic%20AI-0d1117?style=for-the-badge&logo=langchain&logoColor=1c3c3c&labelColor=161b22)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=161b22)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=161b22)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=161b22)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=161b22)
 ![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C&labelColor=161b22)
-![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=008080&labelColor=161b22)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=161b22)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=161b22)
 
 <br/>
 
@@ -108,7 +98,7 @@
 
 <br/>
 
-📫 **Reach me:** [afridihamza484@gmail.com](mailto:afridihamza484@gmail.com)
+📫 **Reach me:** [afridihamza484@gmail.com](mailto:afridihamza484@gmail.com) \n
   **Callme**:   +923332424247
 
 <br/>
