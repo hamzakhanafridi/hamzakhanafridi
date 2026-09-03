@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Data%20Science%20%7C%20Full%20Stack&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamza%20Afridi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Data%20Science%20%7C%20Full%20Stack&descAlignY=55&descSize=18" />
 </p>
 
 <!-- ===================== TYPING TAGLINE ===================== -->
@@ -16,6 +16,7 @@
 - 💡 Currently learning: Machine Learning, Deep Learning, GenAI , Agentic AI
 - 🚀 Working on: AI/ML projects (recommendation systems, NLP, computer vision, blind vision system,)
 - 📫 Reach me: afridihamza484@gmail.com
+- Call me : +923332424247
 - 🌐 Portfolio: yourportfolio.com
 
 <!-- ===================== TOPIC BADGES ===================== -->
