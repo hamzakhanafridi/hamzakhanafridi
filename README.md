@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/AI%20%26%20ML-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff&labelColor=161b22)
 ![](https://img.shields.io/badge/Data%20Science-0d1117?style=for-the-badge&logo=databricks&logoColor=3fb950&labelColor=161b22)
 ![](https://img.shields.io/badge/GenAI&AgenticAI-0d1117?style=for-the-badge&logo=googlescholar&logoColor=bc8cff&labelColor=161b22)
-![](https://img.shields.io/badge/Master-in-progress%202027-0d1117?style=for-the-badge&logo=mortarboard&logoColor=e3b341&labelColor=161b22)
+![](https://img.shields.io/badge/🎓_Masters-ML_%26_AI_%7C_In_Progress_2027-0d1117?style=for-the-badge&labelColor=161b22)
 
 <br/><br/>
 
